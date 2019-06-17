@@ -1,10 +1,12 @@
 <template>
-  <div class="home"></div>
+  <p>&copy; 2019</p>
 </template>
 
 <script>
 export default {
-  name: "home",
-  components: {}
+  name: "Footer"
 };
 </script>
+
+<style>
+</style>
